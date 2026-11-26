@@ -1,0 +1,17 @@
+FastScreenRecorder includes the following third-party software and fonts.
+
+FFmpeg 9.0.2 (ffmpeg.exe, "essentials" build by gyan.dev)
+  https://ffmpeg.org/
+  This build is licensed under the GNU General Public License v3 (full text in LICENSE-ffmpeg.txt).
+  FastScreenRecorder runs it as a separate program; it is not linked into FastScreenRecorder.exe.
+  Source code for this version: https://ffmpeg.org/releases/ffmpeg-9.0.2.tar.xz
+  Build configuration: https://www.gyan.dev/ffmpeg/builds/
+
+.NET 9 runtime (Microsoft) - MIT License
+  https://github.com/dotnet/runtime
+
+NAudio - MIT License
+  https://github.com/naudio/NAudio
+
+IBM Plex Sans and IBM Plex Mono - SIL Open Font License 1.1 (full text in LICENSE-IBMPlex.txt)
+  Copyright 2017 IBM Corp., https://github.com/IBM/plex
